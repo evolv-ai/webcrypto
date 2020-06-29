@@ -3,6 +3,11 @@
 This is a partial and experimental WebCrypto implementation for the Node.js
 platform.
 
+> This repo is a fork of nodejs/webcrypto without modification to the code.
+> The reason for the fork is to publish the latest code to NPM. The last time
+> that this package was published to NPM was in 2017, so it does reflect the 
+> latest contributions.
+
 ## Asynchonicity
 
 The WebCrypto specification requires almost all operations to be completed
